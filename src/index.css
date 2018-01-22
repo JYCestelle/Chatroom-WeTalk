@@ -1,0 +1,139 @@
+/* Your CSS goes here */
+.fa-twitter {
+	color:#55acee;
+  -ms-transform: scaleX(-1); /* IE 9 */
+  -webkit-transform: scaleX(-1); /* Chrome, Safari, Opera */
+  transform: scaleX(-1);
+}
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background:rgba(245,248,250,1);
+}
+
+header {
+	text-align: center;
+	padding:10px;
+	background:white;
+	margin-bottom:10px;
+	position:relative;
+}
+.channelName{
+	font-family: 'Sumana', serif;
+	padding-left:70px;
+}
+.intro{
+	padding-left:50px;
+}
+
+.logout {
+	position:absolute;
+	right:10px;
+	top: 10px;
+}
+
+.chirppad {
+	font-size: 1.8em;
+}
+
+.avatar, .image {
+	width:50px;
+	height:50px;
+	border-radius: 50%;
+}
+
+.image {
+	margin:10px;
+	float:left;
+}
+
+/*.sign-up-buttons button {
+  margin-right:1em;
+}*/
+
+li {
+	padding-bottom:10px;
+	margin-bottom:10px;
+	margin-top:10px;
+	border-bottom:1px solid #d3d3d3;
+}
+
+.chirp-input {
+	margin-left:70px;
+	margin-top:10px;
+}
+
+.time {
+	color: #9d9d9d;
+}
+
+.handle {
+	font-size:1.25em;
+	font-weight: 700;
+}
+
+.chirp {
+	font-size: 1.5em;
+}
+
+.chirp-box {
+	border-bottom:1px solid #d3d3d3;
+	padding:20px;
+
+	background-color: white;
+}
+
+.send-chirp {
+	text-align:right;
+	margin-top:5px;
+}
+
+.chirp-box:hover{
+	background-color:rgba(211, 211, 211, 0.27);
+}
+
+.likes {
+	color:#adadad;
+}
+
+.likes .user-liked {
+	color: red;
+}
+
+.write-chirp, .write-chirp:hover  {
+	background-color: rgb(229, 242, 247);
+}
+
+.fa-heart {
+	cursor: pointer;
+}
+
+a{
+  color:#2bbbad;
+}
+.nav{
+  padding-left:25px;
+  padding-right:25px;
+}
+.create{
+  display: inline-block;
+  padding-right: 30px;
+}
+.mdl-layout__header-row{
+  background-color: black;
+}
+.btn-warning, .btn-warning:hover{
+  background-color:#2bbbad;
+  border-color:#2bbbad;
+}
+.btn{
+	margin-top:10px;
+	margin-right:20px;
+	
+}
+.delete, .edit{
+	margin-right:15px;
+}
+.input{
+	padding-top:20px;
+}
