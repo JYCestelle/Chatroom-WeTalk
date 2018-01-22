@@ -1,16 +1,6 @@
 # Chat Room Challenge
 
-This folder contains code for a web app that allows users to chat in real-time (a "Slack" clone), created as part of the Chat Room Challenge.
-
-The below questions should be answered regarding your submission!
-
-##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> Yes, I asked help for professor, and I also got some helps from classmates(Sopheak)
-
-
-##### Approximately how many hours did it take you to complete this assignment? #####
-> 35h+
-
+A simple chat room application similar to the Slack. Users will be able to sign up for your application. Send messages in public chat "channels", and even create new channels around topics of their choosing! Moreover, the program I built is a single-page application—an interactive web app with multiple pages that doesn't require any additional page loads.
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
 > 10
